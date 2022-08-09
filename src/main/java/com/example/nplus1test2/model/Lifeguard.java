@@ -33,7 +33,7 @@ public class Lifeguard extends BaseEntity {
     //@OneToOne(fetch = FetchType.LAZY) //default EAGER;
     @ManyToOne(fetch = FetchType.LAZY //fetch() default EAGER;
     )
-    @BatchSize(size = 4)
+    //@BatchSize(size = 4)
     //@LazyToOne(LazyToOneOption.NO_PROXY)
     private Boat boat;
 }

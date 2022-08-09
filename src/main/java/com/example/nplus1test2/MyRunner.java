@@ -47,8 +47,8 @@ class MyRunner implements CommandLineRunner {
 			lifeguards.forEach( l -> {
 						System.out.println(l.getId() + " " + l.getName());
 						Boat boat = l.getBoat();
-
-						System.out.println("Bt Speed: " + boat.getSpeed());
+						if (boat!=null)
+							System.out.println("Bt Speed: " + boat.getSpeed());
 					}
 			);
 			System.out.println();

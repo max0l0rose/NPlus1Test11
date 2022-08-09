@@ -1,0 +1,18 @@
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (8, null, 'Eddie Kramer', null, 0, 2, 1, 6, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (9, null, 'Summer Quinn', null, 0, 4, 1, 6, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (11, null, 'Hobie Buchannon', null, 0, 4, 2, 10, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (12, null, 'Trevor Cole', null, 0, 4, 2, 10, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (13, null, 'Gina Pomeroy', null, 0, 2, 2, 10, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (14, null, 'Jimmy Slade', null, 0, 5, 2, 10, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (16, null, 'Craig Pomeroy', null, 0, 4, 3, null, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (17, null, 'Jill Riley', null, 0, 3, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (18, null, 'Shauni McClain', null, 0, 2, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (19, null, 'Hobie Buchannon', null, 0, 5, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (20, null, 'Garner Ellerbee', null, 0, 4, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (21, null, 'Don Thorpe', null, 0, 3, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (22, null, 'Harvey Miller', null, 0, 1, 3, 16, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (23, null, 'Matt Brody', null, 0, 4, 4, null, null);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (7, null, 'John D. Cort', null, 0, 3, 1, 6, 3);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (6, null, 'Mitch Buchannon', null, 0, 5, 1, null, 2);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (10, null, 'C. J. Parker', null, 0, 4, 2, null, 4);
+INSERT INTO public.lifeguard (id, created, name, updated, version, speed, beach_id, boss_id, boat_id) VALUES (15, null, 'Ben Edwards', null, 0, 3, 2, 10, 5);
